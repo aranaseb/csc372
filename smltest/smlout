@@ -1,0 +1,5 @@
+Standard ML of New Jersey v110.79 [built: Mon Apr 22 10:14:55 2024]
+[opening fib.sml]
+val fib = fn : int -> int
+val x = 55 : int
+- 
