@@ -1,1 +1,1 @@
-# csc372
+# Class csc372: Comparative Programming Languages. Homework/projects include basic SML, Perl, and Prolog programs. This is my first time using these languages, so this is how I learn them. See perl-scraper (separate repo) for my larger project written after a few weeks of learning perl.
